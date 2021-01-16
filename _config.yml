@@ -1,6 +1,6 @@
-remote_theme: Drassil/git-wiki-theme@master
+remote_theme: benbalter/jekyll-remote-theme@master
 # (string) Title of your wiki
-title: "git-wiki-skeleton"
+title: "A3 Survival"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
 baseurl: "/git-wiki-skeleton"
@@ -25,7 +25,7 @@ show_downloads: true
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: 
+logo_url: https://pbs.twimg.com/profile_images/1105991641905676288/dEtCUJDK_400x400.png
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: 
 # (string) folder where wiki pages are stored, it's needed for tool buttons
